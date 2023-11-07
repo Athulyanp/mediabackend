@@ -1,0 +1,110 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "Why we ❤️ Luminar TECHNOLAB",
+      "thumbnail": "https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/a351df1c-5b62-496b-9347-f6acb3b11d93-2.png",
+      "url": "https://www.youtube.com/embed/Y00u_tRridk"
+    },
+    {
+      "id": 2,
+      "caption": "Neela Nilave - Video Song | RDX | Kapil Kapilan | Sam CS | Shane Nigam,Antony Varghese,Neeraj Madhav",
+      "thumbnail": "https://assets.mspimages.in/gear/wp-content/uploads/2023/09/Untitled-design-14.jpg",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "3",
+      "caption": "Aradhya - Lyrical | Kushi ",
+      "thumbnail": "https://i.pinimg.com/1200x/6d/45/69/6d45696db970acad8879571d614ac225.jpg",
+      "url": "https://www.youtube.com/embed/wlC_eFbxwDo"
+    },
+    {
+      "id": "4",
+      "caption": "Confesses His Darkest Fears",
+      "thumbnail": "https://marketplace.canva.com/EAFVCFkAg3w/1/0/1131w/canva-red-and-black-horror-movie-poster-AOBSIAmLWOs.jpg",
+      "url": "https://www.youtube.com/embed/sw6UGkFBIEs"
+    },
+    {
+      "id": "5",
+      "caption": "Best Melodies of All Time",
+      "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/e9d8ea017e27c10065836260a2436cc47c4dd19f4c600318b8ba3f8c2847c4d5.jpg",
+      "url": "https://www.youtube.com/embed/KB4XtZr-7X4"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "informative",
+      "allvideos": [
+        {
+          "id": 2,
+          "caption": "Neela Nilave - Video Song | RDX | Kapil Kapilan | Sam CS | Shane Nigam,Antony Varghese,Neeraj Madhav",
+          "thumbnail": "https://assets.mspimages.in/gear/wp-content/uploads/2023/09/Untitled-design-14.jpg",
+          "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+        },
+        {
+          "id": 2,
+          "caption": "Neela Nilave - Video Song | RDX | Kapil Kapilan | Sam CS | Shane Nigam,Antony Varghese,Neeraj Madhav",
+          "thumbnail": "https://assets.mspimages.in/gear/wp-content/uploads/2023/09/Untitled-design-14.jpg",
+          "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoryName": "RDXmovie song",
+      "allvideos": [
+        {
+          "id": "3",
+          "caption": "Aradhya - Lyrical | Kushi ",
+          "thumbnail": "https://i.pinimg.com/1200x/6d/45/69/6d45696db970acad8879571d614ac225.jpg",
+          "url": "https://www.youtube.com/embed/wlC_eFbxwDo"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "categoryName": "5point",
+      "allvideos": [
+        {
+          "id": 1,
+          "caption": "Why we ❤️ Luminar TECHNOLAB",
+          "thumbnail": "https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/a351df1c-5b62-496b-9347-f6acb3b11d93-2.png",
+          "url": "https://www.youtube.com/embed/Y00u_tRridk"
+        }
+      ]
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": 1,
+      "cardName": "Best Melodies of All Time",
+      "url": "https://www.youtube.com/embed/KB4XtZr-7X4",
+      "date": "11-2-2023"
+    },
+    {
+      "id": "120d4b0a-1c5a-4628-a66f-588d2f2cb22b",
+      "categoryName": "Why we ❤️ Luminar TECHNOLAB",
+      "url": "https://www.youtube.com/embed/Y00u_tRridk",
+      "date": "2023-11-03T16:15:02.528Z"
+    },
+    {
+      "id": "95a352b8-df45-4be3-aedd-340d32255650",
+      "categoryName": "Neela Nilave - Video Song | RDX | Kapil Kapilan | Sam CS | Shane Nigam,Antony Varghese,Neeraj Madhav",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "2023-11-03T16:20:42.812Z"
+    },
+    {
+      "id": "f16d9fdd-0b0b-4979-b78a-2dd1b5dcc645",
+      "cardName": "Neela Nilave - Video Song | RDX | Kapil Kapilan | Sam CS | Shane Nigam,Antony Varghese,Neeraj Madhav",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "2023-11-03T16:22:26.629Z"
+    },
+    {
+      "id": "f4ef8ea3-ca6c-42bd-9bc8-66f238014049",
+      "cardName": "Why we ❤️ Luminar TECHNOLAB",
+      "url": "https://www.youtube.com/embed/Y00u_tRridk",
+      "date": "2023-11-06T16:22:19.304Z"
+    }
+  ]
+}
